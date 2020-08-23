@@ -1,9 +1,9 @@
 import React from 'react';
 
 const App = () => (
-  <div>
+  <React.StrictMode>
     <h1>react-template</h1>
-  </div>
+  </React.StrictMode>
 );
 
 export default App;
